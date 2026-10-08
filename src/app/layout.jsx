@@ -34,7 +34,7 @@ const syne = Syne({
 
 export const metadata = {
   title: "Moot Restaurant",
-  description: "Reusable Website Template",
+  description: "Access freshly prepared meals from Moot Restaurant, Lagos. Order online for delivery or pickup.",
 };
 
 export default function RootLayout({ children }) {
